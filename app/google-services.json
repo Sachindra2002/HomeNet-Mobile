@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "443509996267",
+    "project_id": "homenet-mobile",
+    "storage_bucket": "homenet-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443509996267:android:01a7f40f9810d4c62e9cae",
+        "android_client_info": {
+          "package_name": "com.sachindra.homenet_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443509996267-bph1me42ifgkmtk5vqk3clrjbvj65ebs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDudkSO3fr1V8YftXM4290hZNhGWXfivro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443509996267-bph1me42ifgkmtk5vqk3clrjbvj65ebs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443509996267:android:533808fa145458e92e9cae",
+        "android_client_info": {
+          "package_name": "package.com.sachindra.homenet_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443509996267-bph1me42ifgkmtk5vqk3clrjbvj65ebs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDudkSO3fr1V8YftXM4290hZNhGWXfivro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443509996267-bph1me42ifgkmtk5vqk3clrjbvj65ebs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
