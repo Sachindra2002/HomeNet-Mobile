@@ -28,3 +28,11 @@ Currently, this system can only recognize four types of sound, which are the sou
 # Related Repositories
 
 - RESTful API Repository - `Not publicly available`
+- Raspberry Pi Code - `Not publicly available`
+- Jupyter Notebooks - `Not publicly available`
+
+# Neural Netowrks
+
+Two Neural Netowrks were trained as follows
+
+- CNN model built from scratch - 
