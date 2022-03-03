@@ -24,3 +24,7 @@ Currently, this system can only recognize four types of sound, which are the sou
 
 
 ![image](https://user-images.githubusercontent.com/52739523/154854366-ba953185-7526-40b7-985d-d1866b79359c.png)
+
+# Related Repositories
+
+- RESTful API Repository - `Not publicly available`
