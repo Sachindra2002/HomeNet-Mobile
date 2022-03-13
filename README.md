@@ -28,7 +28,7 @@ Currently, this system can only recognize four types of sound, which are the sou
 # Related Repositories
 
 - RESTful API Repository - `Not publicly available`
-- Raspberry Pi Code - [](https://github.com/Sachindra2002/HomeNet-Raspberry-Pi)
+- Raspberry Pi Code - [https://github.com/Sachindra2002/HomeNet-Raspberry-Pi](https://github.com/Sachindra2002/HomeNet-Raspberry-Pi)
 - Jupyter Notebooks - `Not publicly available`
 
 # Neural Netowrks
