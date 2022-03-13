@@ -40,7 +40,11 @@ Two Neural Netowrks were trained as follows
 
 # Technologies Used
 
-![ alt text ](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=flask)
+![ alt text ](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![ alt text ](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![ alt text ](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ alt text ](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![ alt text ](https://camo.githubusercontent.com/2667ec9ca32204207bf4b7e999a3d26874759a9b5aeec22ebb4682ce936d2955/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4b6572617326636f6c6f723d443030303030266c6f676f3d4b65726173266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 # Future Enhancements
 
