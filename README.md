@@ -35,4 +35,7 @@ Currently, this system can only recognize four types of sound, which are the sou
 
 Two Neural Netowrks were trained as follows
 
-- CNN model built from scratch - 
+- CNN model built from scratch to perform classification for four types of sounds
+- Sequential model built using transfer learning from the YAMNet pre-trained model and buuild a new sequential model to fit the new dataset
+
+# Technologies Used
